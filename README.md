@@ -6,6 +6,7 @@ Bem-vindo ao meu perfil do GitHub! Sou Flaviano Matozinhos, um desenvolvedor apa
 
 - 🚀 Apaixonado por programação e tecnologia desde sempre.
 - 🏗️ Familiarizado com várias arquiteturas de programação, como MVC, DDD, RESTful e arquitetura de microsserviços.
+- 🧽 Clean Code.
 - ☕ Amante de café e sempre pronto para uma boa xícara enquanto codifica.
 
 ## Linguagens em Destaque
