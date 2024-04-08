@@ -10,6 +10,8 @@ Bem-vindo ao meu perfil do GitHub! Sou Flaviano Matozinhos, um desenvolvedor apa
 
 ## Linguagens em Destaque
 
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png"></code> HTML
+- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png"></code> CSS
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/go/go.png"></code> Go
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/php/php.png"></code> PHP
 - <code><img height="20" src="https://raw.githubusercontent.com/github/explore/master/topics/laravel/laravel.png"></code> Laravel
@@ -24,3 +26,8 @@ Bem-vindo ao meu perfil do GitHub! Sou Flaviano Matozinhos, um desenvolvedor apa
 ## GitHub Stats
 
 ![Flaviano's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FlavianoMatozinhos&show_icons=true&theme=radical&line_height=27&v=5)
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/FlavianoMatozinhos/count.svg" />
+</p>
